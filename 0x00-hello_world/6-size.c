@@ -1,11 +1,18 @@
 #include <stdio.h>
+
 /**
- * main - Entry point
+ * main - This code calculates the sizes of different variables
  *
- * Return: always 0
+ * Return: This ends the code.
  */
 int main(void)
 {
+int a;
+char b;
+long c;
+long long d;
+float e;
+
 printf("Size of a char: %d byte(s)\n", sizeof(char));
 printf("Size of an int: %d byte(s)\n", sizeof(int));
 printf("Size of a long int: %d byte(s)\n", sizeof(longint));
