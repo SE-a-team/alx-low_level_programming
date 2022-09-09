@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints series of texts that will return an exit code
+ * main - Print series of texts that will return an exit code
  * Return: Sends a value of one
  */
 int main(void)
